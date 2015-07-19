@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: bukkit-1.7.9-R0.1-20140418.155157-4.jar
+Main-Class: me.giantcrack.mpu.Main
+
